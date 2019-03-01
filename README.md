@@ -1,3 +1,7 @@
+[![Coverage Status](https://coveralls.io/repos/github/Warui-K/django-practice/badge.svg?branch=develop)](https://coveralls.io/github/Warui-K/django-practice?branch=develop)
+
+
+
 # django-practice
 A django based project.
 
